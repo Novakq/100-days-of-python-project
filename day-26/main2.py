@@ -16,3 +16,5 @@ result = { word: len(word) for word in sentence.split()}
 # Write your code below:
 
 print(result)
+
+#ok
