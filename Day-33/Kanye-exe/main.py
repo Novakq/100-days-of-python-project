@@ -1,6 +1,7 @@
 from tkinter import *
-import os
 import requests
+import os
+
 os.chdir("Day-33/Kanye-exe")
 
 
